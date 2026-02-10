@@ -5,7 +5,4 @@
 val postgreSQL = Database.connect(...)
 ```
 
-```kotlin
-val a = 1
-```
 
